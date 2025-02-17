@@ -2,9 +2,10 @@
 Project Title: AI-Powered Mental Health Companion
 
 Final project for the Building AI course
-Summary
 
-This project aims to develop an AI-powered mental health companion that provides personalized emotional support, tracks mental health trends, and offers actionable insights to users. The tool will use natural language processing (NLP) and sentiment analysis to understand user emotions and provide real-time, empathetic responses. It will also integrate with wearable devices to monitor physiological data like heart rate and sleep patterns, offering a holistic approach to mental well-being.
+## Summary
+This project develops an AI-powered mental health companion that provides personalized emotional support, tracks mental health trends, and offers actionable insights. It uses NLP and wearable data to deliver holistic mental well-being solutions.
+
 Background
 Problems Solved
 
